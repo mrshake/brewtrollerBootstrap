@@ -1,0 +1,12 @@
+#alarmAlert {
+	position: absolute;
+	width: 150px;
+	top: 35px;
+	text-align: center;
+	display: inline-block;
+	margin: 0px 25% 25% 25%;
+	
+}
+#div_hltHeatPower .alert {
+	height: 10px;
+}
